@@ -1,0 +1,4 @@
+logs/
+.vscode/
+scraped/
+local_settings.py
