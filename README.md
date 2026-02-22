@@ -105,6 +105,8 @@ A different approach, previously adopted, is based on the retrieval of structure
 More information can be found on the [datastructure branch](https://github.com/auino/cookidump/tree/datastructure).
 Output is represented in this case in a different (structured) format, hence, it has to be interpreted. Such interpretation is not implemented in the linked previous commit.
 
+Another community-driven approach, supported by some AI, has been released in the [community branch](https://github.com/auino/cookidump/tree/community).
+
 ### TODO ###
 
 * Bypass the limited number of exported recipes
@@ -120,6 +122,11 @@ Output is represented in this case in a different (structured) format, hence, it
 * [@NightProgramming](https://github.com/NightProgramming), regarding the use of selenium version 3
 * [@morela](https://github.com/morela), regarding the update of the tool to support a newer version of Selenium
 * [@ndjc](https://github.com/ndjc), fixing some deprecation warnings
+* [@paoloaq](https://github.com/paoloaq), fixing page scrolling
+
+### Extensions ###
+
+* [GAC27/ReceitasDaAvoGenerator](https://github.com/GAC27/ReceitasDaAvoGenerator) implements a tool generating a PDF "book" file from the output provided by [cookidump](https://github.com/auino/cookidump)
 
 ### Disclaimer ###
 

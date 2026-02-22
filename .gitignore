@@ -2,3 +2,7 @@ logs/
 .vscode/
 scraped/
 local_settings.py
+
+## Ignore some local research stuff
+decrypted.iso
+decrypt_iso.py
